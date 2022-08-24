@@ -1,5 +1,5 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'self' 'unsafe-inline';"
+    Content-Security-Policy = "default-src 'self' 'unsafe-inline'; img-src 'self' data:"
     X-Frame-Options = "DENY"
