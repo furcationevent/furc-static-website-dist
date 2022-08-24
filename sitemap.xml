@@ -17,11 +17,6 @@
         </url>
     
         <url>
-            <loc>/events/</loc>
-            <lastmod>2022-08-07T18:42:50.996Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/events/timetable/</loc>
             <lastmod>2022-08-07T18:42:50.996Z</lastmod>
         </url>
@@ -99,6 +94,11 @@
         <url>
             <loc>/attending/venue/</loc>
             <lastmod>2022-08-24T11:03:28.464Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/</loc>
+            <lastmod>2022-08-24T13:05:15.971Z</lastmod>
         </url>
     
 </urlset>
