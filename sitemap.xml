@@ -62,11 +62,6 @@
         </url>
     
         <url>
-            <loc>/attending/registration/</loc>
-            <lastmod>2022-08-24T01:11:36.608Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/events/dealers-den/</loc>
             <lastmod>2022-08-24T01:11:36.608Z</lastmod>
         </url>
@@ -97,8 +92,13 @@
         </url>
     
         <url>
+            <loc>/attending/registration/</loc>
+            <lastmod>2022-08-29T23:47:46.025Z</lastmod>
+        </url>
+    
+        <url>
             <loc>/events/timetable/</loc>
-            <lastmod>2022-08-29T22:20:22.310Z</lastmod>
+            <lastmod>2022-08-29T23:47:46.037Z</lastmod>
         </url>
     
 </urlset>
