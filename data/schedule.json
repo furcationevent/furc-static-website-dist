@@ -1,6 +1,6 @@
 {
   "schedule": {
-    "version": "0.1",
+    "version": "0.2",
     "base_url": "https://events.furcation.org.uk/furcation-2022/schedule/",
     "conference": {
       "acronym": "furcation-2022",
@@ -72,6 +72,32 @@
           "day_start": "2022-11-11T04:00:00+00:00",
           "day_end": "2022-11-12T03:59:00+00:00",
           "rooms": {
+            "Dune House": [
+              {
+                "id": 10,
+                "guid": "de71185c-711a-5b8b-8ea3-2598bd3fb75a",
+                "logo": "",
+                "date": "2022-11-11T21:00:00+00:00",
+                "start": "21:00",
+                "duration": "03:00",
+                "room": "Dune House",
+                "slug": "furcation-2022-10-chill-board-gaming",
+                "url": "https://events.furcation.org.uk/furcation-2022/talk/QRNWZD/",
+                "title": "Chill & Board Gaming",
+                "subtitle": "",
+                "track": "Dune House",
+                "type": "Games",
+                "language": "en",
+                "abstract": "Want a quieter space to socialise or enjoy board games? Come over to the Dune House, make friends and find someone to play with.",
+                "description": "",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ],
             "Speakeasy (Clubhouse)": [
               {
                 "id": 3,
@@ -172,21 +198,21 @@
           "rooms": {
             "Dune House": [
               {
-                "id": 10,
-                "guid": "de71185c-711a-5b8b-8ea3-2598bd3fb75a",
+                "id": 24,
+                "guid": "ecb4ca29-98af-5403-87e9-7f59838d758a",
                 "logo": "",
-                "date": "2022-11-12T18:00:00+00:00",
-                "start": "18:00",
-                "duration": "06:00",
+                "date": "2022-11-12T21:00:00+00:00",
+                "start": "21:00",
+                "duration": "03:00",
                 "room": "Dune House",
-                "slug": "furcation-2022-10-chill-board-gaming",
-                "url": "https://events.furcation.org.uk/furcation-2022/talk/QRNWZD/",
-                "title": "Chill & Board Gaming",
+                "slug": "furcation-2022-24-chill-and-board-gaming",
+                "url": "https://events.furcation.org.uk/furcation-2022/talk/LN3FRR/",
+                "title": "Chill and Board Gaming",
                 "subtitle": "",
                 "track": "Dune House",
                 "type": "Games",
                 "language": "en",
-                "abstract": "Want a quieter space to socialise or enjoy board games? Come over to the Dune House, make friends and find someone to play with.",
+                "abstract": "Games",
                 "description": "",
                 "recording_license": "",
                 "do_not_record": false,
@@ -441,6 +467,38 @@
                 "links": [],
                 "attachments": [],
                 "answers": []
+              },
+              {
+                "id": 8,
+                "guid": "a95fac9d-aa02-5497-873f-687163ebc49c",
+                "logo": "",
+                "date": "2022-11-12T22:30:00+00:00",
+                "start": "22:30",
+                "duration": "01:30",
+                "room": "Speakeasy (Clubhouse)",
+                "slug": "furcation-2022-8-saturday-night-dj-swolf",
+                "url": "https://events.furcation.org.uk/furcation-2022/talk/ZRE9ZL/",
+                "title": "Saturday Night DJ - Swolf",
+                "subtitle": "",
+                "track": "Speakeasy",
+                "type": "DJs",
+                "language": "en",
+                "abstract": "It's the Saturday Night Dance, and what better way to spend a Saturday night with some good company in our Speakeasy, and the awesome DJ Swolf.",
+                "description": "Music Genre : Dance / Upbeat / Pop / Electroswing\r\n\r\n*Saturday night is party night, everybody knows this! I'd come and join you all, and I know my dancing would be the best out of everyone! - Frankie*",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 15,
+                    "code": "RHTALE",
+                    "public_name": "Swolf",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
               }
             ]
           }
@@ -456,9 +514,9 @@
                 "id": 12,
                 "guid": "be0edee9-d420-56dc-820b-e5274a1d660b",
                 "logo": "",
-                "date": "2022-11-13T18:00:00+00:00",
-                "start": "18:00",
-                "duration": "06:00",
+                "date": "2022-11-13T21:00:00+00:00",
+                "start": "21:00",
+                "duration": "03:00",
                 "room": "Dune House",
                 "slug": "furcation-2022-12-chill-and-board-gaming",
                 "url": "https://events.furcation.org.uk/furcation-2022/talk/BLSQPM/",
@@ -575,11 +633,43 @@
                 "answers": []
               },
               {
+                "id": 18,
+                "guid": "8842c93b-2eb9-5f7a-aad6-02538a735f5e",
+                "logo": "",
+                "date": "2022-11-13T16:30:00+00:00",
+                "start": "16:30",
+                "duration": "01:00",
+                "room": "Speakeasy (Clubhouse)",
+                "slug": "furcation-2022-18-fox-amoore-and-jake",
+                "url": "https://events.furcation.org.uk/furcation-2022/talk/N3Q9KL/",
+                "title": "Fox Amoore And Jake",
+                "subtitle": "",
+                "track": "Speakeasy",
+                "type": "Shows",
+                "language": "en",
+                "abstract": "Renowned Furry musician Fox Amoore will be giving a one hour special at Furcation, with his friend and fellow musician, Jake.",
+                "description": "*Wait... we're having a concert at Furcation? Does that mean we're a concert now, and not a convention? - Clive*",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 12,
+                    "code": "EA3YLJ",
+                    "public_name": "Fox Amoore",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              },
+              {
                 "id": 20,
                 "guid": "91fdc031-daa6-55d0-b560-535fafbed2ea",
                 "logo": "",
-                "date": "2022-11-13T18:30:00+00:00",
-                "start": "18:30",
+                "date": "2022-11-13T18:00:00+00:00",
+                "start": "18:00",
                 "duration": "01:00",
                 "room": "Speakeasy (Clubhouse)",
                 "slug": "furcation-2022-20-charity-auction",
@@ -678,7 +768,42 @@
           "date": "2022-11-14",
           "day_start": "2022-11-14T04:00:00+00:00",
           "day_end": "2022-11-15T03:59:00+00:00",
-          "rooms": {}
+          "rooms": {
+            "Speakeasy (Clubhouse)": [
+              {
+                "id": 25,
+                "guid": "b5432b8e-ae60-5fdd-b6e0-029d6652c8d5",
+                "logo": "",
+                "date": "2022-11-14T12:00:00+00:00",
+                "start": "12:00",
+                "duration": "02:00",
+                "room": "Speakeasy (Clubhouse)",
+                "slug": "furcation-2022-25-furcation-feedback-session",
+                "url": "https://events.furcation.org.uk/furcation-2022/talk/PR9BS8/",
+                "title": "Furcation Feedback Session",
+                "subtitle": "",
+                "track": "Speakeasy",
+                "type": "Panels",
+                "language": "en",
+                "abstract": "We always listen to your feedback. After all, without you, Furcation wouldn't be Furcation! Come and give your feedback with the Chairman, the Vice Chairman, the committee and all of the relevant heads of departments.\r\n\r\n*NOTE: Due to us wanting to take as much feedback as we can from you, this event may over-run its time slot.",
+                "description": "*Don't worry, our team don't bite. They want to make Furcation better for you all, so this is the way to do it, by letting us know what you like, and what you don't like. - Clive*",
+                "recording_license": "",
+                "do_not_record": false,
+                "persons": [
+                  {
+                    "id": 4,
+                    "code": "LUYKSL",
+                    "public_name": "Jasper Foxx",
+                    "biography": null,
+                    "answers": []
+                  }
+                ],
+                "links": [],
+                "attachments": [],
+                "answers": []
+              }
+            ]
+          }
         }
       ]
     }
