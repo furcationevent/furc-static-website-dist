@@ -17,11 +17,6 @@
         </url>
     
         <url>
-            <loc>/events/timetable/</loc>
-            <lastmod>2022-08-07T18:42:50.996Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/events/thanks/</loc>
             <lastmod>2022-08-09T22:00:43.154Z</lastmod>
         </url>
@@ -67,22 +62,12 @@
         </url>
     
         <url>
-            <loc>/attending/registration/</loc>
-            <lastmod>2022-08-24T01:11:36.608Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/events/dealers-den/</loc>
             <lastmod>2022-08-24T01:11:36.608Z</lastmod>
         </url>
     
         <url>
             <loc>/events/djs/</loc>
-            <lastmod>2022-08-24T01:11:36.612Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/volunteer/</loc>
             <lastmod>2022-08-24T01:11:36.612Z</lastmod>
         </url>
     
@@ -99,6 +84,31 @@
         <url>
             <loc>/events/</loc>
             <lastmod>2022-08-24T13:14:40.899Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/registration/</loc>
+            <lastmod>2022-08-29T23:47:46.025Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/timetable/</loc>
+            <lastmod>2022-08-29T23:47:46.037Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/volunteer/</loc>
+            <lastmod>2022-08-31T17:10:18.148Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/volunteer/riggers/</loc>
+            <lastmod>2022-08-31T17:52:16.500Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/volunteer/riggers/thanks/</loc>
+            <lastmod>2022-08-31T17:52:16.500Z</lastmod>
         </url>
     
 </urlset>
