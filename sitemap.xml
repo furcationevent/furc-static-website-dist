@@ -72,11 +72,6 @@
         </url>
     
         <url>
-            <loc>/volunteer/</loc>
-            <lastmod>2022-08-24T01:11:36.612Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/about/history/</loc>
             <lastmod>2022-08-24T01:15:48.488Z</lastmod>
         </url>
@@ -99,6 +94,21 @@
         <url>
             <loc>/events/timetable/</loc>
             <lastmod>2022-08-29T23:47:46.037Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/volunteer/</loc>
+            <lastmod>2022-08-31T17:10:18.148Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/volunteer/riggers/</loc>
+            <lastmod>2022-08-31T17:10:18.148Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/volunteer/riggers/thanks/</loc>
+            <lastmod>2022-08-31T17:10:18.148Z</lastmod>
         </url>
     
 </urlset>
