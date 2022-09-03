@@ -52,11 +52,6 @@
         </url>
     
         <url>
-            <loc>/about/faq/</loc>
-            <lastmod>2022-08-24T01:11:36.608Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/attending/pricing/</loc>
             <lastmod>2022-08-24T01:11:36.608Z</lastmod>
         </url>
@@ -87,11 +82,6 @@
         </url>
     
         <url>
-            <loc>/attending/registration/</loc>
-            <lastmod>2022-08-29T23:47:46.025Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/events/timetable/</loc>
             <lastmod>2022-08-29T23:47:46.037Z</lastmod>
         </url>
@@ -109,6 +99,16 @@
         <url>
             <loc>/volunteer/riggers/</loc>
             <lastmod>2022-08-31T20:22:25.781Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/faq/</loc>
+            <lastmod>2022-09-03T00:38:43.886Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/registration/</loc>
+            <lastmod>2022-09-03T00:38:43.886Z</lastmod>
         </url>
     
 </urlset>
