@@ -32,11 +32,6 @@
         </url>
     
         <url>
-            <loc>/about/legal/</loc>
-            <lastmod>2022-08-23T10:12:31.609Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/about/legal/code-of-conduct/</loc>
             <lastmod>2022-08-24T01:05:39.480Z</lastmod>
         </url>
@@ -48,16 +43,6 @@
     
         <url>
             <loc>/about/contact/</loc>
-            <lastmod>2022-08-24T01:11:36.608Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/faq/</loc>
-            <lastmod>2022-08-24T01:11:36.608Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/attending/pricing/</loc>
             <lastmod>2022-08-24T01:11:36.608Z</lastmod>
         </url>
     
@@ -107,8 +92,23 @@
         </url>
     
         <url>
+            <loc>/about/legal/</loc>
+            <lastmod>2022-09-03T08:28:53.316Z</lastmod>
+        </url>
+    
+        <url>
             <loc>/attending/registration/</loc>
-            <lastmod>2022-09-02T17:23:56.603Z</lastmod>
+            <lastmod>2022-09-03T08:28:53.316Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/pricing/</loc>
+            <lastmod>2022-09-03T08:48:48.519Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/faq/</loc>
+            <lastmod>2022-09-04T23:59:17.985Z</lastmod>
         </url>
     
 </urlset>
