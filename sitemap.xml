@@ -22,11 +22,6 @@
         </url>
     
         <url>
-            <loc>/events/suggest/</loc>
-            <lastmod>2022-08-10T22:39:24.758Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/</loc>
             <lastmod>2022-08-21T19:16:32.632Z</lastmod>
         </url>
@@ -47,16 +42,6 @@
         </url>
     
         <url>
-            <loc>/events/dealers-den/</loc>
-            <lastmod>2022-08-24T01:11:36.608Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/events/djs/</loc>
-            <lastmod>2022-08-24T01:11:36.612Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/about/history/</loc>
             <lastmod>2022-08-24T01:15:48.488Z</lastmod>
         </url>
@@ -69,11 +54,6 @@
         <url>
             <loc>/events/</loc>
             <lastmod>2022-08-24T13:14:40.899Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/events/timetable/</loc>
-            <lastmod>2022-08-29T23:47:46.037Z</lastmod>
         </url>
     
         <url>
@@ -109,6 +89,26 @@
         <url>
             <loc>/attending/registration/</loc>
             <lastmod>2022-09-26T19:05:21.390Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/dealers-den/</loc>
+            <lastmod>2022-09-30T14:33:52.701Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/djs/</loc>
+            <lastmod>2022-09-30T14:33:52.701Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/suggest/</loc>
+            <lastmod>2022-09-30T14:33:52.701Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/timetable/</loc>
+            <lastmod>2022-09-30T14:33:52.701Z</lastmod>
         </url>
     
 </urlset>
