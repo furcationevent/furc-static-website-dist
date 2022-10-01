@@ -52,11 +52,6 @@
         </url>
     
         <url>
-            <loc>/events/</loc>
-            <lastmod>2022-08-24T13:14:40.899Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/volunteer/</loc>
             <lastmod>2022-08-31T17:10:18.148Z</lastmod>
         </url>
@@ -102,13 +97,18 @@
         </url>
     
         <url>
-            <loc>/events/suggest/</loc>
-            <lastmod>2022-09-30T14:33:52.701Z</lastmod>
+            <loc>/events/timetable/</loc>
+            <lastmod>2022-09-30T16:05:42.337Z</lastmod>
         </url>
     
         <url>
-            <loc>/events/timetable/</loc>
-            <lastmod>2022-09-30T16:05:42.337Z</lastmod>
+            <loc>/events/</loc>
+            <lastmod>2022-10-01T10:01:26.531Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/suggest/</loc>
+            <lastmod>2022-10-01T10:01:26.531Z</lastmod>
         </url>
     
 </urlset>
