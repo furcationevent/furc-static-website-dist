@@ -67,22 +67,7 @@
         </url>
     
         <url>
-            <loc>/about/legal/</loc>
-            <lastmod>2022-09-03T08:28:53.316Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/faq/</loc>
-            <lastmod>2022-09-04T23:59:17.985Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/attending/pricing/</loc>
-            <lastmod>2022-09-26T19:05:21.390Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/attending/registration/</loc>
             <lastmod>2022-09-26T19:05:21.390Z</lastmod>
         </url>
     
@@ -97,11 +82,6 @@
         </url>
     
         <url>
-            <loc>/events/timetable/</loc>
-            <lastmod>2022-09-30T16:05:42.337Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/events/</loc>
             <lastmod>2022-10-01T10:01:26.531Z</lastmod>
         </url>
@@ -109,6 +89,26 @@
         <url>
             <loc>/events/suggest/</loc>
             <lastmod>2022-10-01T10:01:26.531Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/faq/</loc>
+            <lastmod>2022-10-03T13:16:52.946Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/legal/</loc>
+            <lastmod>2022-10-03T13:16:52.946Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/registration/</loc>
+            <lastmod>2022-10-03T13:16:52.946Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/timetable/</loc>
+            <lastmod>2022-10-03T13:16:52.946Z</lastmod>
         </url>
     
 </urlset>
