@@ -82,11 +82,6 @@
         </url>
     
         <url>
-            <loc>/about/faq/</loc>
-            <lastmod>2022-10-03T13:16:52.946Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/about/legal/</loc>
             <lastmod>2022-10-03T13:16:52.946Z</lastmod>
         </url>
@@ -107,8 +102,13 @@
         </url>
     
         <url>
+            <loc>/about/faq/</loc>
+            <lastmod>2022-11-03T11:00:30.712Z</lastmod>
+        </url>
+    
+        <url>
             <loc>/attending/travel/</loc>
-            <lastmod>2022-11-03T10:11:49.290Z</lastmod>
+            <lastmod>2022-11-03T11:00:30.712Z</lastmod>
         </url>
     
 </urlset>
