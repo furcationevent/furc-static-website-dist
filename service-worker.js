@@ -44,5 +44,15 @@ define(["./js/workbox-b05d7040"], function (e) {
         }),
             {}
         );
+        e.precacheAndRoute(manifest.map((entry) => {
+            const ne = Object.assign({}, entry);
+            ne.url = ne.url.replace("/index.html", "");
+            if (ne.url === "") {
+                ne.url = '/';
+            }
+            return ne;
+        }),
+        {}
+    );
         e.precacheAndRoute([{"url": "https://events.furcation.org.uk/furcation-2022/schedule/export/schedule.json"}], {});
 });
