@@ -72,9 +72,15 @@ self.addEventListener('fetch', (event) => {
                     const networkResponse = await fetch(event.request).catch(() => {
                         return null;
                     });
-                    event.waitUntil(
-                        cache.put(event.request, networkResponse.clone())
-                    );
+                    try {
+                        event.waitUntil(
+                            cache.put(event.request, networkResponse.clone()).catch(() => {
+
+                            })
+                        );
+                    } catch (e) {
+
+                    }
                     return networkResponse;
                 } catch (e) {
                     return null;
