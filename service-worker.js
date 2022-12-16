@@ -2,6 +2,7 @@ const cacheName = 'furcationCache-v1.0.0001';
 
 let filesToCache = [
     '/',
+    '/manifest.json',
     'https://events.furcation.org.uk/furcation-2022/schedule/export/schedule.json',
 ];
 
