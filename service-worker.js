@@ -23,11 +23,11 @@ self.addEventListener('install', (event) => {
             filesToCache = filesToCache.concat(manifest.map((u) => {
                 return u.url.replace("index.html", "") || "/";
             }));
-            await cache.addAll(filesToCache.filter((v,i,a) => a.indexOf(v) === i)).catch(() => {
-
+            await cache.addAll(filesToCache.filter((v,i,a) => a.indexOf(v) === i)).catch((e) => {
+                console.error(e);
             });
-            await cache.addAll(mediaToCache.filter((v,i,a) => a.indexOf(v) === i)).catch(() => {
-
+            await cache.addAll(mediaToCache.filter((v,i,a) => a.indexOf(v) === i)).catch((e) => {
+                console.error(e);
             });
         })(),
     );
