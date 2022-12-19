@@ -16,9 +16,7 @@ self.addEventListener('install', (event) => {
             filesToCache = filesToCache.concat(manifest.map((u) => {
                 return u.url.replace("index.html", "") || "/";
             }));
-            cache.addAll(filesToCache.filter((v,i,a) => a.indexOf(v) === i)).then(() => {
-
-            });
+            await cache.addAll(filesToCache.filter((v,i,a) => a.indexOf(v) === i));
         })(),
     );
 });
@@ -75,7 +73,7 @@ self.addEventListener('fetch', (event) => {
                     });
                     try {
                         event.waitUntil(
-                            cache.put(event.request, networkResponse.clone()).catch(() => {
+                            await cache.put(event.request, networkResponse.clone()).catch(() => {
 
                             })
                         );
