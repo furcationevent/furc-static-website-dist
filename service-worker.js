@@ -17,10 +17,7 @@ self.addEventListener('install', (event) => {
                 return u.url.replace("index.html", "") || "/";
             }));
             cache.addAll(filesToCache.filter((v,i,a) => a.indexOf(v) === i)).then(() => {
-                console.log('sw cache add all completed');
-            }).catch((e) => {
-                console.log('sw cache add all error');
-                console.log(e);
+
             });
         })(),
     );
