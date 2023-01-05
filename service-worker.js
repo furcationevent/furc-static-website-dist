@@ -81,7 +81,7 @@ self.addEventListener('fetch', (event) => {
             } else {
                 try {
                     const networkResponse = await fetch(event.request).catch(() => {
-                        return null;
+                        return false;
                     });
                     try {
                         event.waitUntil(
@@ -94,7 +94,7 @@ self.addEventListener('fetch', (event) => {
                     }
                     return networkResponse;
                 } catch (e) {
-                    return null;
+                    return false;
                 }
             }
         })(),
