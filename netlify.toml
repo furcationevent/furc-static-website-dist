@@ -3,3 +3,9 @@
   [headers.values]
     Content-Security-Policy = "default-src 'self' 'unsafe-inline'; connect-src 'self' 'unsafe-inline' https://events.furcation.org.uk; img-src 'self' data:; script-src 'self' 'unsafe-inline' https://events.furcation.org.uk;"
     X-Frame-Options = "DENY"
+
+[[redirects]]
+  from = "/media/videos/rss"
+  to = "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OQo9ZCkFUzLRY18a8SimA"
+  status = 200
+  force = true
