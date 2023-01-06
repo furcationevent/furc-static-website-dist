@@ -9,3 +9,9 @@
   to = "https://www.youtube.com/feeds/videos.xml?channel_id=UC9OQo9ZCkFUzLRY18a8SimA"
   status = 200
   force = true
+
+[[redirects]]
+  from = "/media/live/hls/*"
+  to = "https://rtp.knightmare.org.uk/hls/:splat"
+  status = 200
+  force = true
