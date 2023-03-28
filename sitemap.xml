@@ -2,123 +2,123 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>/about/contact/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/faq/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/history/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/legal/code-of-conduct/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/legal/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/attending/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/attending/pricing/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/attending/registration/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/attending/travel/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/attending/venue/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/events/dealers-den/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/events/djs/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/events/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/events/suggest/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/events/thanks/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/events/timetable/</loc>
-            <lastmod>2022-11-29T01:11:41.835Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/</loc>
-            <lastmod>2022-11-29T01:11:41.839Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/volunteer/</loc>
-            <lastmod>2022-11-29T01:11:41.839Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/volunteer/riggers/</loc>
-            <lastmod>2022-11-29T01:11:41.839Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/volunteer/riggers/thanks/</loc>
-            <lastmod>2022-11-29T01:11:41.839Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/news/2022-12-05-charity-update/</loc>
             <lastmod>2022-12-05T00:00:00.000Z</lastmod>
         </url>
     
         <url>
+            <loc>/about/contact/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/faq/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/history/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/legal/code-of-conduct/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/legal/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/pricing/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/registration/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/travel/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/venue/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/dealers-den/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/djs/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/suggest/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/thanks/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/timetable/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/volunteer/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/volunteer/riggers/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/volunteer/riggers/thanks/</loc>
+            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
+        </url>
+    
+        <url>
             <loc>/about/charity/</loc>
-            <lastmod>2022-12-05T12:26:07.122Z</lastmod>
+            <lastmod>2023-03-28T11:02:34.071Z</lastmod>
         </url>
     
         <url>
             <loc>/news/</loc>
-            <lastmod>2022-12-05T12:26:07.122Z</lastmod>
+            <lastmod>2023-03-28T11:02:34.071Z</lastmod>
         </url>
     
 </urlset>
