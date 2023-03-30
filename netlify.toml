@@ -1,5 +1,5 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "default-src 'self' 'unsafe-inline'; connect-src 'self' 'unsafe-inline' https://events.furcation.org.uk; img-src 'self' data:; script-src 'self' 'unsafe-inline' https://events.furcation.org.uk;"
+    Content-Security-Policy = "default-src 'self' 'unsafe-inline'; connect-src 'self' 'unsafe-inline' https://events.furcation.org.uk *.twitter.com *.twimg.com twitter.com twimg.com; img-src 'self' data: *.twitter.com *.twimg.com twitter.com twimg.com; script-src 'self' 'unsafe-inline' https://events.furcation.org.uk *.twitter.com *.twimg.com twitter.com twimg.com;"
     X-Frame-Options = "DENY"
