@@ -7,11 +7,6 @@
         </url>
     
         <url>
-            <loc>/about/contact/</loc>
-            <lastmod>2023-03-24T16:09:17.313Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/about/faq/</loc>
             <lastmod>2023-03-24T16:09:17.313Z</lastmod>
         </url>
@@ -104,6 +99,11 @@
         <url>
             <loc>/news/</loc>
             <lastmod>2023-04-03T20:53:34.696Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/contact/</loc>
+            <lastmod>2023-04-03T20:57:45.006Z</lastmod>
         </url>
     
 </urlset>
