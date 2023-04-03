@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
   "name": "Furcation",
   "short_name": "Furcation",
-  "start_url": "https://furcation-staging.netlify.app/",
+  "start_url": "https://www.furcation.org.uk/",
   "display": "standalone",
   "background_color": "#fff",
   "description": "The UK's original holiday camp furry con!",
