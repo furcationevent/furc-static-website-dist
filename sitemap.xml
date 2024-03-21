@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>/about/charity/</loc>
-            <lastmod>2024-02-13T21:30:00.088Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/about/</loc>
             <lastmod>2024-02-13T21:30:00.088Z</lastmod>
         </url>
@@ -32,22 +27,7 @@
         </url>
     
         <url>
-            <loc>/events/timetable/</loc>
-            <lastmod>2024-02-13T21:30:00.092Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/volunteer/</loc>
-            <lastmod>2024-02-13T21:30:00.092Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/about/history/</loc>
-            <lastmod>2024-03-07T14:04:10.216Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/legal/</loc>
             <lastmod>2024-03-07T14:04:10.216Z</lastmod>
         </url>
     
@@ -62,23 +42,8 @@
         </url>
     
         <url>
-            <loc>/attending/travel/</loc>
-            <lastmod>2024-03-07T14:04:10.216Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/</loc>
             <lastmod>2024-03-07T14:04:10.216Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/contact/</loc>
-            <lastmod>2024-03-21T14:51:51.076Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/faq/</loc>
-            <lastmod>2024-03-21T14:51:51.076Z</lastmod>
         </url>
     
         <url>
@@ -87,18 +52,53 @@
         </url>
     
         <url>
+            <loc>/about/charity/</loc>
+            <lastmod>2024-03-21T15:48:39.298Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/contact/</loc>
+            <lastmod>2024-03-21T15:48:39.298Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/faq/</loc>
+            <lastmod>2024-03-21T15:48:39.298Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/legal/</loc>
+            <lastmod>2024-03-21T15:48:39.298Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/travel/</loc>
+            <lastmod>2024-03-21T15:48:39.298Z</lastmod>
+        </url>
+    
+        <url>
             <loc>/events/dealers-den/</loc>
-            <lastmod>2024-03-21T14:51:51.076Z</lastmod>
+            <lastmod>2024-03-21T15:48:39.302Z</lastmod>
         </url>
     
         <url>
             <loc>/events/djs/</loc>
-            <lastmod>2024-03-21T14:51:51.076Z</lastmod>
+            <lastmod>2024-03-21T15:48:39.302Z</lastmod>
         </url>
     
         <url>
             <loc>/events/</loc>
-            <lastmod>2024-03-21T14:51:51.076Z</lastmod>
+            <lastmod>2024-03-21T15:48:39.302Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/timetable/</loc>
+            <lastmod>2024-03-21T15:48:39.302Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/volunteer/</loc>
+            <lastmod>2024-03-21T15:48:39.302Z</lastmod>
         </url>
     
 </urlset>
