@@ -37,11 +37,6 @@
         </url>
     
         <url>
-            <loc>/attending/registration/</loc>
-            <lastmod>2024-03-22T09:38:57.242Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/attending/travel/</loc>
             <lastmod>2024-03-22T09:38:57.242Z</lastmod>
         </url>
@@ -99,6 +94,11 @@
         <url>
             <loc>/attending/pricing/</loc>
             <lastmod>2024-04-18T08:10:22.424Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/registration/</loc>
+            <lastmod>2024-04-20T16:51:28.970Z</lastmod>
         </url>
     
 </urlset>
