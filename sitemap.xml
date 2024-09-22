@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>/about/charity/</loc>
-            <lastmod>2024-06-24T20:23:17.153Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/about/contact/</loc>
             <lastmod>2024-06-24T20:23:17.153Z</lastmod>
         </url>
@@ -42,11 +37,6 @@
         </url>
     
         <url>
-            <loc>/attending/pricing/</loc>
-            <lastmod>2024-06-24T20:23:17.157Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/attending/registration/</loc>
             <lastmod>2024-06-24T20:23:17.157Z</lastmod>
         </url>
@@ -68,11 +58,6 @@
     
         <url>
             <loc>/events/djs/</loc>
-            <lastmod>2024-06-24T20:23:17.157Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/events/</loc>
             <lastmod>2024-06-24T20:23:17.157Z</lastmod>
         </url>
     
@@ -99,6 +84,21 @@
         <url>
             <loc>/volunteer/</loc>
             <lastmod>2024-08-05T21:34:12.946Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/charity/</loc>
+            <lastmod>2024-09-22T22:17:51.177Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/pricing/</loc>
+            <lastmod>2024-09-22T22:17:51.177Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/</loc>
+            <lastmod>2024-09-22T22:17:51.177Z</lastmod>
         </url>
     
 </urlset>
