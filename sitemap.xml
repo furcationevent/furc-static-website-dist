@@ -77,11 +77,6 @@
         </url>
     
         <url>
-            <loc>/about/charity/</loc>
-            <lastmod>2024-09-22T22:17:51.177Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/attending/pricing/</loc>
             <lastmod>2024-09-22T22:17:51.177Z</lastmod>
         </url>
@@ -99,6 +94,11 @@
         <url>
             <loc>/volunteer/</loc>
             <lastmod>2024-10-06T16:06:42.001Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/charity/</loc>
+            <lastmod>2024-10-09T23:04:36.689Z</lastmod>
         </url>
     
 </urlset>
