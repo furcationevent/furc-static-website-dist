@@ -67,11 +67,6 @@
         </url>
     
         <url>
-            <loc>/events/timetable/</loc>
-            <lastmod>2024-06-24T20:20:45.766Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/</loc>
             <lastmod>2024-06-24T20:20:45.766Z</lastmod>
         </url>
@@ -82,23 +77,28 @@
         </url>
     
         <url>
-            <loc>/attending/pricing/</loc>
-            <lastmod>2024-09-22T20:41:06.588Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/faq/</loc>
-            <lastmod>2024-10-01T22:02:24.649Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/volunteer/</loc>
             <lastmod>2024-10-06T16:05:56.164Z</lastmod>
         </url>
     
         <url>
+            <loc>/about/faq/</loc>
+            <lastmod>2024-10-15T07:43:23.974Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/pricing/</loc>
+            <lastmod>2024-10-15T07:43:23.974Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/events/timetable/</loc>
+            <lastmod>2024-10-15T07:43:23.974Z</lastmod>
+        </url>
+    
+        <url>
             <loc>/about/charity/</loc>
-            <lastmod>2024-10-09T23:07:22.087Z</lastmod>
+            <lastmod>2024-10-15T07:44:59.015Z</lastmod>
         </url>
     
 </urlset>
