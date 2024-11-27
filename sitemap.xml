@@ -32,16 +32,6 @@
         </url>
     
         <url>
-            <loc>/attending/registration/</loc>
-            <lastmod>2024-11-06T09:12:45.379Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/attending/travel/</loc>
-            <lastmod>2024-11-06T09:12:45.379Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/events/dealers-den/</loc>
             <lastmod>2024-11-06T09:12:45.379Z</lastmod>
         </url>
@@ -99,6 +89,16 @@
         <url>
             <loc>/events/</loc>
             <lastmod>2024-11-27T18:05:08.948Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/registration/</loc>
+            <lastmod>2024-11-27T18:13:59.240Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/travel/</loc>
+            <lastmod>2024-11-27T18:13:59.244Z</lastmod>
         </url>
     
 </urlset>
