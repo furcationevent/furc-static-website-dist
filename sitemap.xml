@@ -7,16 +7,6 @@
         </url>
     
         <url>
-            <loc>/about/contact/</loc>
-            <lastmod>2026-06-05T18:59:14.897Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/about/faq/</loc>
-            <lastmod>2026-06-05T18:59:14.897Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/about/history/</loc>
             <lastmod>2026-06-05T18:59:14.901Z</lastmod>
         </url>
@@ -32,27 +22,7 @@
         </url>
     
         <url>
-            <loc>/about/legal/</loc>
-            <lastmod>2026-06-05T18:59:14.901Z</lastmod>
-        </url>
-    
-        <url>
             <loc>/attending/</loc>
-            <lastmod>2026-06-05T18:59:14.901Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/attending/registration/</loc>
-            <lastmod>2026-06-05T18:59:14.901Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/attending/travel/</loc>
-            <lastmod>2026-06-05T18:59:14.901Z</lastmod>
-        </url>
-    
-        <url>
-            <loc>/attending/venue/</loc>
             <lastmod>2026-06-05T18:59:14.901Z</lastmod>
         </url>
     
@@ -87,13 +57,48 @@
         </url>
     
         <url>
-            <loc>/</loc>
+            <loc>/volunteer/</loc>
             <lastmod>2026-06-05T18:59:14.905Z</lastmod>
         </url>
     
         <url>
-            <loc>/volunteer/</loc>
-            <lastmod>2026-06-05T18:59:14.905Z</lastmod>
+            <loc>/about/contact/</loc>
+            <lastmod>2026-06-23T18:31:02.347Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/faq/</loc>
+            <lastmod>2026-06-23T18:31:02.347Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/about/legal/</loc>
+            <lastmod>2026-06-23T18:31:02.347Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/pricing/</loc>
+            <lastmod>2026-06-23T18:31:02.347Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/registration/</loc>
+            <lastmod>2026-06-23T18:31:02.347Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/travel/</loc>
+            <lastmod>2026-06-23T18:31:02.347Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/attending/venue/</loc>
+            <lastmod>2026-06-23T18:31:02.347Z</lastmod>
+        </url>
+    
+        <url>
+            <loc>/</loc>
+            <lastmod>2026-06-23T18:31:02.347Z</lastmod>
         </url>
     
 </urlset>
